@@ -1,5 +1,6 @@
 The pipeline used to design MIP for somatic mutation
 
+```
 SM_MIP.py --help
 usage: SM_MIP.py [-h] --input_file INPUT_FILE --output_file OUTPUT_FILE
                  [--tm_min TM_MIN] [--tm_max TM_MAX]
@@ -26,3 +27,4 @@ optional arguments:
   --gc_threshold_min GC_THRESHOLD_MIN
                         Low GC content threshold (default .15)
   --gc_threshold_max GC_THRESHOLD_MAX
+```
